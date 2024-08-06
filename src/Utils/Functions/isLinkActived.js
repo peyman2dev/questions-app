@@ -1,0 +1,1 @@
+export default (({isActive}) => isActive ? "bg-purple-500 text-white px-5 py-1.5 rounded-md border border-white/40" : " px-5 py-1.5")

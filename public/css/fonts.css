@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Dana-Light';
+    src: url(../fonts/Dana/Dana-Light.woff);
+}
+
+@font-face {
+    font-family: 'Dana-Regular';
+    src: url(../fonts/Dana/Dana-Regular.woff);
+}
+
+@font-face {
+    font-family: 'Dana-Medium';
+    src: url(../fonts/Dana/Dana-Medium.woff);
+}
+
+@font-face {
+    font-family: 'Dana-Demi';
+    src: url(../fonts/Dana/Dana-Demi.woff);
+}
+
+@font-face {
+    font-family: 'Dana-Bold';
+    src: url(../fonts/Dana/Dana-Bold.woff);
+}
+
+@font-face {
+    font-family: 'Dana-ExtraBold';
+    src: url(../fonts/Dana/Dana-ExtraBold.woff);
+}

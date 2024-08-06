@@ -1,0 +1,16 @@
+@import url("./fonts.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+
+body {
+    @apply font-Dana-Regular bg-[#f1f1f1] select-none
+}
+
+.ql-editor {
+    direction: rtl!important;
+    @apply font-Dana-Regular w-full bg-white text-right
+}
