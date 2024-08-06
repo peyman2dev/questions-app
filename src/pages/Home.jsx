@@ -11,7 +11,7 @@ const Home = () => {
     <>
       <Header />
       <main>
-        <section className="container my-[100px] grid grid-cols-2 gap-2 min-h-[500px] w-full rounded-lg">
+        <section className="container my-[100px] grid grid-cols-2 gap-2 w-full rounded-lg">
             {questions?.map(quest => <QuestionCard key={quest.id} {...quest} />)}
         </section>
       </main>
